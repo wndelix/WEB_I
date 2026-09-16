@@ -19,4 +19,5 @@
 - Atividade 14 [[Repo](https://github.com/wndelix/atividade14)] [[Page](https://wndelix.github.io/atividade14/)]
 
 ### Extras:
-- Atividade
+- Exercício de Músicas [[Repo](https://github.com/wndelix/exercicio-web-musicas)] [[Page](https://wndelix.github.io/exercicio-web-musicas/)]
+- Exercício de Imagens [[Repo](https://github.com/wndelix/exercicio-web-imagens)] [[Page](https://wndelix.github.io/exercicio-web-imagens/)]
