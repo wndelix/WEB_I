@@ -2,7 +2,7 @@
 ## Wendel Peterson Canete da Silva
 ---
 
-### ATIVIDADES
+### Atividades
 - Atividade 01 [[Repo](https://github.com/wndelix/atividade1)] [[Page](https://wndelix.github.io/atividade1/)]
 - Atividade 02 [[Repo](https://github.com/wndelix/atividade2)] [[Page](https://wndelix.github.io/atividade2/)]
 - Atividade 03 [[Repo](https://github.com/wndelix/atividade3)] [[Page](https://wndelix.github.io/atividade3/)]
